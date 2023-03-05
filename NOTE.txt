@@ -1,0 +1,2 @@
+run this app using 
+java -jar target/billing_service-0.0.1-SNAPSHOT.jar
