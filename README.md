@@ -1,7 +1,7 @@
 ## General notes
 
 - This is a basic example of micro services, i was working on it when i was learning about
-  micro services from Prof Mohamed Youssfi's lectures.
+  micro services from Professor Mohamed Youssfi's lectures.
 - The projects contains 4 sections, the dicovery sever, the gateway and two micro services(customer and billing services)
 - You will need to run each app separately
 - I used MySQL in this project to store customer and billing data
